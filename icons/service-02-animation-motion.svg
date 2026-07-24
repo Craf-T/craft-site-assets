@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#16A394" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- motion / speed lines -->
+    <path d="M14 26 H30"/>
+    <path d="M10 32 H26"/>
+    <path d="M14 38 H30"/>
+    <!-- play triangle -->
+    <path d="M36 22 L52 32 L36 42 Z"/>
+  </g>
+</svg>

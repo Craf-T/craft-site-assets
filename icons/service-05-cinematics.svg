@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- clapper top -->
+    <path d="M13 24 L48 16 L50 24 L15 32 Z" fill="none"/>
+    <path d="M22 21 L25 27"/>
+    <path d="M31 19 L34 25"/>
+    <path d="M40 17 L43 23"/>
+    <!-- board body -->
+    <path d="M15 32 H49 V48 A2 2 0 0 1 47 50 H17 A2 2 0 0 1 15 48 Z" fill="none"/>
+  </g>
+  <!-- play triangle -->
+  <path d="M29 36 L39 41 L29 46 Z" fill="none" stroke="#16A394" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

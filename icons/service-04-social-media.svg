@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- phone -->
+  <g stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="22" y="12" width="20" height="40" rx="4" fill="none"/>
+    <path d="M29 16 H35"/>
+  </g>
+  <!-- heart -->
+  <path d="M32 40 L25.5 33.6 C23.5 31.6 23.5 28.4 25.5 26.4 C27.5 24.4 30.5 24.8 32 27 C33.5 24.8 36.5 24.4 38.5 26.4 C40.5 28.4 40.5 31.6 38.5 33.6 Z"
+        fill="none" stroke="#16A394" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
