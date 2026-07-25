@@ -1,0 +1,21 @@
+1|1-Headphone Final V1|1920,1080,15.018667,
+10|10-Construction Product 3D Explainer|1920,1080,94.097370,
+11|11-Jogger_Short 3D Commercial|1920,1080,28.593878,
+12|12-Flying Tiger VFX Promo Visualization|1080,1920,31.202857,
+13|13-Little Blend 3D Animation Promo|1920,1080,58.756599,
+14|14-Shoe 3D Animation Promo|720,1080,9.994694,
+15|15-2D_3D Motion Graphics Crossover|1280,720,55.552245,
+16|16-G - Park Animation|1280,720,56.086349,
+17|17-Knives Product Visualization|1920,1080,10.931837,
+18|18-3D Furniture Assembly Animation|1080,1080,52.580091,
+19|19-3D Knives Animation|1920,1080,50.822041,
+2|2-seahorse|2560,1440,61.400000,
+20|20-Ares Rise NFT  Promo Video|1920,1080,66.465624,
+21|21-3D Furniture Animation|1920,1080,46.868027,
+3|3-tooth brush exploded|3840,2160,46.200000,
+4|4 craf-t workshop|1920,1080,28.602222,
+5|5-Capsu Loader|1920,1080,38.021179,
+6|6-Real Estate Vision|1920,1080,16.597506,
+7|7-Abstract Motion|1080,1350,25.296644,
+8|8-Foot Spa 3D Animation|1920,1080,43.384989,
+9|9-Furnace System 3D Explainer |1920,1080,105.080408,
